@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glaubr&theme=dracula&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glaubr&hide_progress=true)
+
 ### Tecnologias que tenho mais segurança:
 
 <div style="display: inline_block"><br>
